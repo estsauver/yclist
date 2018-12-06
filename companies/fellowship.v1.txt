@@ -6,6 +6,10 @@ Apify
   https://www.apify.com
   Formerly Apifier. The web scraping and automation platform, which enables to turn any website into an API.
 
+Apollo Agriculture
+  Formerly AirPaper. Apollo Agriculture helps smallholder farmers in subsaharan Africa maximize their profits.
+
+
 Canvas Medical
   https://canvasmedical.com
   Canvas is a predictive charting interface designed and built exclusively for primary care
